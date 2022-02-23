@@ -1,0 +1,2 @@
+78dd678608246a57c93f9d2c072fea9386c1af1ca53325e6844ceca542e1dd7e *tsailun_1.0.1_win64.zip
+dd1ed4fec988a88442af46bd768177f8d6ba2118cb2f515013605fdaff49e8ff *tsailun_1.0.1_linux64.tar.gz
