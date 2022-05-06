@@ -1,0 +1,2 @@
+519449074eaa779c3c3e89fdaee01f8f02a06370883d9acef81fd9d040d03090 *tsailun_1.5.9_win64.zip
+e42b12c2b9f8277b4914e609dfcef2c80e793c5c9ed0147d02f71eaffff09dd5 *tsailun_1.5.9_linux64.tar.gz
